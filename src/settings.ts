@@ -6,4 +6,4 @@ export const PLATFORM_NAME = 'HomebridgePrincessHeaterPlugin';
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = '@dsizomin/homebridge-homewizard-climate-princess-heater';
+export const PLUGIN_NAME = '@7a50n/homebridge-homewizard-climate-princess-heater';
